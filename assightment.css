@@ -1,0 +1,18 @@
+.my-btn{
+    background-color: blue  ;
+    width: 200px;
+}
+.my-btn:hover{
+    background-color: green;
+}
+.all{
+    height: 75vh;
+}
+.all h1{
+    font-size: 80px;
+    font-weight: 700px;
+}
+.all p{
+    font-size: 35px;
+    font-weight: 400px;
+}
